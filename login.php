@@ -77,6 +77,7 @@
        <h3 id="last"> © 2023 TalentMix Inc. Cookie Policy / Privacy / Terms / Accessibility</h3>
 
 </div>
+<script src="project.js"></script>
 
 <?php
 $server="localhost";
@@ -94,7 +95,7 @@ $con=mysqli_connect('$server','$user','$password','$db');
 $sql="insert into artist(ID,first_name,last_name,email,password) VALUES('1','$fname','$lname','$email','$password');";
 $result=mysqli_query($con,$sql);
 ?>
-    <script src="project.js"></script>
+    
 
 </body>
 </html>
