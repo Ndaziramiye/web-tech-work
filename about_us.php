@@ -12,11 +12,11 @@
 <div class="container">
     <div class="header-links">
         <div class="logo"><h2>Arts and design talents!</h2></div>
-        <div class="links"><a href="project.html">Home</a></div>
-        <div class="links"><a href="information.html">Information</a></div>
-        <div class="links"><a href="Talent.html">Talent</a></div>
-        <div class="links"><a href="about_us.html">About Us</a></div>
-            <div class="links"><a href="Login.html">Login</a></div>
+        <div class="links"><a href="CULTURE_IMPROVEMENT_WEB_TECH.php">Home</a></div>
+        <div class="links"><a href="information.php">Information</a></div>
+        <div class="links"><a href="Talent.php">Talent</a></div>
+        <div class="links"><a href="about_us.php">About Us</a></div>
+            <div class="links"><a href="Login.php">Login</a></div>
     </div>
 
     <div class="middle-container">
